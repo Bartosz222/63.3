@@ -1,0 +1,3 @@
+259
+Minimalnie: 6
+Maksymalnie: 248667
